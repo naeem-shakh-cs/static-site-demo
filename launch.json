@@ -5,6 +5,7 @@
         "/delay",
         "/blog.html",
         "/new-page.html",
+        "/new-page/abcd.html",
         "https://dummyjson.com/test"
       ]
     }
